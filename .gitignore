@@ -1,0 +1,17 @@
+# Ignore build files
+build/
+*.o
+*.out
+*.log
+
+# Ignore generated files
+*.exe
+*.a
+*.dylib
+*.so
+
+# Ignore system files
+.DS_Store
+
+# Ignore IDE and editor-specific files
+.vscode/
